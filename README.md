@@ -1,1 +1,1 @@
-# jeppiar-university-sympo-website
+# jeppiaar-university-sympo-website
